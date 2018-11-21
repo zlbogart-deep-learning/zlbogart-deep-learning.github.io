@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Mademoiselle Baptistine was a long, pale, thin, gentle creature',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Bah!" said Scrooge, "Humbug!',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Call me Ishmael.'      
 };
 
 function status(statusText) {
