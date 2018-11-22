@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Bah!" said Scrooge, "Humbug!',
   'example3':
-      'Call me Ishmael.'      
+      'The whale, the whale!'      
 };
 
 function status(statusText) {
